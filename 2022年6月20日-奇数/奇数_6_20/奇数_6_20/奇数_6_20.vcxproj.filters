@@ -18,5 +18,11 @@
     <ClCompile Include="奇数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
