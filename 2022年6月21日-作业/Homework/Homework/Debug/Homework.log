@@ -1,2 +1,6 @@
-﻿  打印100-200之间的素数.c
+﻿  猜数字.c
+D:\Allotg\Hardware\Data\C语言\2022年6月21日-作业\Homework\Homework\猜数字.c(161,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\Allotg\Hardware\Data\C语言\2022年6月21日-作业\Homework\Homework\猜数字.c(161,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\Allotg\Hardware\Data\C语言\2022年6月21日-作业\Homework\Homework\猜数字.c(161,11): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\Allotg\Hardware\Data\C语言\2022年6月21日-作业\Homework\Homework\猜数字.c(161,11): message : 此参数用作缓冲区大小
   Homework.vcxproj -> D:\Allotg\Hardware\Data\C语言\2022年6月21日-作业\Homework\Debug\Homework.exe

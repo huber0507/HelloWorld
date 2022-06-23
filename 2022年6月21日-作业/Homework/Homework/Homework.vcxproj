@@ -145,6 +145,8 @@
     <ClCompile Include="homework4.c" />
     <ClCompile Include="打印100-200之间的素数.c" />
     <ClCompile Include="打印1000-2000之间的闰年.c" />
+    <ClCompile Include="打印乘法口诀表.c" />
+    <ClCompile Include="猜数字.c" />
     <ClCompile Include="输入3个数从大到小输出.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
